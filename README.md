@@ -1,6 +1,6 @@
 # ScanUrl
 
-https://github.com/OpSlasher/ScanUrl
+git clone https://github.com/OpSlasher/ScanUrl
 
 cd ScanUrl
 
